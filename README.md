@@ -4,4 +4,4 @@ In the project directory, you can run:
 
 
 ### `npm install`
-### `npm dev`
+### `npm run dev`
