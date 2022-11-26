@@ -2,6 +2,6 @@
 
 In the project directory, you can run:
 
-### 
-`npm install`
-`npm dev`
+
+### `npm install`
+### `npm dev`
